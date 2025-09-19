@@ -12,7 +12,7 @@ const summary = document.getElementById("summary") as HTMLParagraphElement;
 
 
 const images : string[]=[
-    "./images/hero1.jpg",
+    
     "./images/hero2.jpg",
     "./images/hero3.jpg",
     "./images/hero1.jpg"
